@@ -1,0 +1,8 @@
+{
+  "appId": "se.fokusveckan.app",
+  "appName": "Fokusveckan",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": { "iconColor": "#E2572B" }
+  }
+}
